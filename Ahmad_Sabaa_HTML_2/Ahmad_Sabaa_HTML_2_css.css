@@ -1,0 +1,29 @@
+#header1 {
+    padding: 40px;
+    background-color: black;
+}
+#title1 {
+    font-family: monospace;
+    font-size: 60px;
+    color: rgb(252,13,121,255)
+}
+#title2 {
+    font-family: monospace;
+    font-size: 60px;
+    color: rgb(57,74,249,255)
+}
+#title3 {
+    font-family: monospace;
+    font-size: 60px;
+    color: rgb(248,178,14)
+}
+#title4 {
+    font-family: monospace;
+    font-size: 60px;
+    color: white;
+}
+#title5 {
+    font-family: monospace;
+    font-size: 60px;
+    color: rgb(252,13,121,255   )
+}
